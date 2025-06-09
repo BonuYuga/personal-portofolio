@@ -1,0 +1,27 @@
+/*===Border===*/
+.container {
+  border-style: solid;
+}
+
+/*===Header===*/
+header h1 {
+  color: red;
+  font-family: sans-serif;
+}
+
+/*===Navigation===*/
+nav a {
+  color: red;
+}
+nav {
+  text-align: right;
+}
+
+.logo {
+  text-align: left;
+}
+
+/*===Project===*/
+aside {
+  border-style: solid;
+}
