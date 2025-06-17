@@ -1,25 +1,47 @@
-# Bonu Yuga Sabilillah - Basic HTML Portfolio
+# 🌐 Portfolio Website - HTML Only
 
-Ini adalah proyek portofolio dasar menggunakan **HTML murni** tanpa framework atau library eksternal. Proyek ini bertujuan untuk menyusun struktur portofolio pribadi yang rapi dan dapat dikembangkan di tahap selanjutnya.
+Proyek ini merupakan implementasi dari tantangan [Portfolio Website](https://roadmap.sh/projects/portfolio-website) di roadmap.sh. Dibangun menggunakan **HTML dan CSS murni**, tanpa framework atau JavaScript, sebagai latihan menyusun portofolio developer dari nol.
 
-## 📌 Fitur Utama
+## 🎯 Tujuan Proyek
 
-- Navigasi sederhana antar halaman: Home, Project, Article, Contact
-- Struktur konten terpisah: Project List, Work Experience, Education
-- Testimonial grid responsif menggunakan CSS Grid
-- HTML semantik dan SEO meta tag dasar
-- Layout bersih dan mudah dibaca
+Membangun website portofolio yang:
 
+- Menampilkan informasi personal dan profesional
+- Menyertakan daftar proyek, pengalaman kerja, dan pendidikan
+- Menyediakan testimonial dari kolega
+- Memiliki layout bersih dan responsif
 
-## 🧪 Teknologi yang Digunakan
+## 📌 Fitur yang Telah Dibuat
+
+- ✅ Navigasi antar halaman: Home, Project, Article, Contact
+- ✅ Deskripsi posisi: *Front End Developer*
+- ✅ Daftar proyek sederhana
+- ✅ Pengalaman kerja & pendidikan
+- ✅ Testimonial kolega dalam grid responsif
+- ✅ Meta tag SEO dasar
+- ✅ Struktur HTML semantik dan valid
+
+## 🚧 Fitur yang Belum / Akan Ditambahkan
+
+- [ ] Halaman detail proyek individual
+- [ ] Formulir kontak fungsional
+- [ ] Integrasi GitHub API untuk daftar repo otomatis
+- [ ] Versi dark mode
+- [ ] Animasi ringan dengan CSS
+
+## 🧰 Teknologi
 
 - HTML5
-- CSS3 (Native, tanpa framework)
+- CSS3 (Native, no framework)
+- Git & GitHub
 
-## 🧰 Cara Menggunakan
 
-1. Clone repository ini:
-   ```bash
-   git clone https://github.com/bonuyuga/html-portfolio.git
+## 🧪 Cara Menjalankan
+
+Cukup buka `index.html` di browser:
+```bash
+open index.html
+# atau
+start index.html
 
 
